@@ -29,41 +29,34 @@
                                     <nav id="menu">
                                         <ul id="menu-sibayak" class="menu menu-main">
                                             <li id="menu-item-17"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-9 current_page_item">
-                                                <a href="index.html"><span>Home</span></a>
-                                            </li>
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home">
+                                                <a href="/"><span>Home</span></a></li>
                                             <li id="menu-item-21"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-                                                <a href="information/index.html"><span>Information</span></a>
+                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children">
+                                                <a href="/information/"><span>Information</span></a>
                                                 <ul class="sub-menu">
                                                     <li id="menu-item-27"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                        <a href="race-maps/index.html"><span>Race Maps</span></a>
-                                                    </li>
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23 current_page_item">
+                                                        <a href="/race-maps"><span>Race Maps</span></a></li>
                                                     <li id="menu-item-30"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                        <a href="race-pack-collection/index.html"><span>Race pack
-                                                                Collection</span></a>
-                                                    </li>
+                                                        <a href="/race-pack-collection"><span>Race pack
+                                                                Collection</span></a></li>
                                                     <li id="menu-item-34"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                        <a href="rules-regulations/index.html"><span>Rules &#038;
-                                                                Regulations</span></a>
-                                                    </li>
+                                                        <a href="/registration"><span>Rules &#038;
+                                                                Regulations</span></a></li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-38"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                <a href="registration/index.html"><span>Registration</span></a>
-                                            </li>
+                                                class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                                                    href="/registration"><span>Registration</span></a></li>
                                             <li id="menu-item-58"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                <a href="gallery/index.html"><span>Gallery</span></a>
-                                            </li>
+                                                class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                                                    href="/gallery"><span>Gallery</span></a></li>
                                             <li id="menu-item-62"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                <a href="contact/index.html"><span>Contact</span></a>
-                                            </li>
+                                                class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                                                    href="/contact"><span>Contact</span></a></li>
                                         </ul>
                                     </nav>
                                     <a class="responsive-menu-toggle" href="#"><i
